@@ -8,3 +8,6 @@ For exploratory data analysis (EDA) and model development steps, refer to the Ti
 Refer to Tatanic_Kaggle_presentation_summary.pptx for a summary of the results.
 
 Data set and Kaggle competition: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
+
+[My Kaggle Profile](https://www.kaggle.com/shamikakd)
+
